@@ -19,6 +19,6 @@ h3 {
   color: #206a5d;
 }
 
-img {
-  background-color: #bfdcae;
+img:hover {
+  background-color: gold;
 }
